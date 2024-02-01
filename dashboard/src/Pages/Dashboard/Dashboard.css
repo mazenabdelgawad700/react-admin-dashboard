@@ -1,0 +1,7 @@
+@media (max-width: 767px) {
+  .MuiPaper-root {
+    width: 150px;
+    display: block;
+    text-align: center;
+  }
+}
